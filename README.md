@@ -1,3 +1,22 @@
+Key Skills: Bootstrap, Django and Sqlite
+
+Front End: Bootstrap and Ajax
+
+Back End: Django and SQLite
+
+Database: SQLite
+
+
+Developed a full-stack web application using Bootstrap and Django.
+Registration of users in the database, and secure password using Django built-in classes and modules.
+Features:
+1> Registration, login, forget password before login, and change password after login.
+2> Add to cart, remove from cart, add to wishlist, and remove from wishlist.
+3> Search products via matching characters.
+
+
+Screenshots of the website ----->
+
 Login Page
 ![image](https://github.com/user-attachments/assets/b2af3779-bf14-42b9-bde6-134cea89f557)
 
