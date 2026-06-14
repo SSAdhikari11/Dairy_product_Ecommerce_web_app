@@ -1,4 +1,4 @@
-Key Skills: Bootstrap, Django and Sqlite
+Key Skills: Bootstrap, Django and Sqlite 
 
 Front End: Bootstrap and Ajax
  
